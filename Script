@@ -307,3 +307,4 @@ summary(model3)
 #beta_2i = 0.55 + teta_i, teta_i ~ N(0, 0.021)
 #beta_3 = -0.2 (если sexM)
 #cor(beta_1i, beta_2i) = 0.54
+
